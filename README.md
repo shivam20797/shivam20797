@@ -19,6 +19,19 @@ My focus is not just writing code — but delivering apps that are fast, reliabl
 
 ---
 
+## 🤖 Expanding Into Python & AI Automation
+
+I’ve started expanding my stack into:
+
+- 🐍 Python Development  
+- ⚙ Backend Services  
+- 🤖 AI Automation in App Development  
+- 🧠 Advanced Problem Solving  
+
+You can explore my Python projects and automation work in my GitHub repositories.
+
+---
+
 ## 🎯 What Makes Me Different?
 
 I combine strong engineering fundamentals with a product mindset.
@@ -32,27 +45,11 @@ I think beyond code and focus on:
 
 ---
 
-## 🌱 Currently Growing
+## 🌐 Connect With Me
 
-Recently expanding my stack into:
-
-- 🐍 Python Development  
-- ⚙ Backend Services  
-- 🤖 Automation  
-- 🧠 Advanced Problem Solving  
+🔗 Portfolio: https://shivam20797.github.io/my-portfolio/  
+🔗 LinkedIn: https://www.linkedin.com/in/shivam20797  
 
 ---
 
-## 🤝 Work Philosophy
-
-I enjoy collaborating with:
-
-- Designers  
-- Backend Engineers  
-- Product Teams  
-
-To ship meaningful digital experiences that create real impact.
-
----
-
-⭐ “Building products, not just apps.”
+⭐ "Building scalable products with performance, precision, and purpose."
